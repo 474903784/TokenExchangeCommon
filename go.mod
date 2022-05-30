@@ -1,4 +1,4 @@
-module github.com/idoall/TokenExchangeCommon
+module github.com/474903784/TokenExchangeCommon
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
